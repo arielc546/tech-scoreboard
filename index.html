@@ -340,7 +340,7 @@ function styleFor(feature) {
 }
 
 Promise.all([
-  fetch("data/countries.json").then(r => r.json()),
+  fetch("countries.json").then(r => r.json()),
   fetch("https://cdn.jsdelivr.net/gh/johan/world.geo.json@master/countries.geo.json").then(r => r.json()),
 ]).then(([data, geo]) => {
   META = data._meta || {};
