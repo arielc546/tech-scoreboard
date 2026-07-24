@@ -1,0 +1,3383 @@
+{
+ "_meta": {
+  "updated": "2026-07-24"
+ },
+ "SWE": {
+  "name": "Sweden",
+  "flag": "🇸🇪",
+  "pop": 10.6,
+  "sourced": true,
+  "story": "The post that started it all holds up: ~$211B standing, with Spotify and Ericsson still ~60% of the total.",
+  "companies": [
+   {
+    "name": "Spotify",
+    "value_busd": 98.3,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "internet"
+   },
+   {
+    "name": "Ericsson",
+    "value_busd": 31.7,
+    "status": "independent",
+    "founded": 1876,
+    "sector": "telecom equipment"
+   },
+   {
+    "name": "Hexagon",
+    "value_busd": 21.9,
+    "status": "independent",
+    "founded": 1992,
+    "sector": "software"
+   },
+   {
+    "name": "IFS",
+    "value_busd": 16.3,
+    "status": "independent",
+    "founded": 1983,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Evolution",
+    "value_busd": 13.6,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "gaming"
+   },
+   {
+    "name": "Nordnet",
+    "value_busd": 9.2,
+    "status": "independent",
+    "founded": 1996,
+    "sector": "fintech"
+   },
+   {
+    "name": "Skype",
+    "value_busd": 8.5,
+    "status": "acquired",
+    "founded": 2003,
+    "acquirer": "Microsoft",
+    "exit_year": 2011,
+    "sector": "internet"
+   },
+   {
+    "name": "Klarna",
+    "value_busd": 7.1,
+    "status": "independent",
+    "founded": 2005,
+    "sector": "fintech"
+   },
+   {
+    "name": "Lovable",
+    "value_busd": 6.6,
+    "status": "independent",
+    "founded": 2023,
+    "sector": "AI",
+    "private": true
+   },
+   {
+    "name": "King",
+    "value_busd": 5.9,
+    "status": "acquired",
+    "founded": 2003,
+    "acquirer": "Activision Blizzard",
+    "exit_year": 2016,
+    "sector": "gaming"
+   },
+   {
+    "name": "Qlik",
+    "value_busd": 3,
+    "status": "acquired",
+    "founded": 1993,
+    "acquirer": "Thoma Bravo",
+    "exit_year": 2016,
+    "sector": "software"
+   },
+   {
+    "name": "Axis Communications",
+    "value_busd": 2.8,
+    "status": "acquired",
+    "founded": 1984,
+    "acquirer": "Canon",
+    "exit_year": 2015,
+    "sector": "networking"
+   },
+   {
+    "name": "Sinch",
+    "value_busd": 2.6,
+    "status": "independent",
+    "founded": 2008,
+    "sector": "software"
+   },
+   {
+    "name": "Mojang",
+    "value_busd": 2.5,
+    "status": "acquired",
+    "founded": 2009,
+    "acquirer": "Microsoft",
+    "exit_year": 2014,
+    "sector": "gaming"
+   },
+   {
+    "name": "iZettle",
+    "value_busd": 2.2,
+    "status": "acquired",
+    "founded": 2010,
+    "acquirer": "PayPal",
+    "exit_year": 2018,
+    "sector": "fintech"
+   },
+   {
+    "name": "NetEnt",
+    "value_busd": 2.1,
+    "status": "acquired",
+    "founded": 1996,
+    "acquirer": "Evolution",
+    "exit_year": 2020,
+    "sector": "gaming"
+   },
+   {
+    "name": "Paradox Interactive",
+    "value_busd": 1.44,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "gaming"
+   },
+   {
+    "name": "Embracer Group",
+    "value_busd": 1.42,
+    "status": "independent",
+    "founded": 2011,
+    "sector": "gaming"
+   },
+   {
+    "name": "MySQL",
+    "value_busd": 1,
+    "status": "acquired",
+    "founded": 1995,
+    "acquirer": "Sun Microsystems",
+    "exit_year": 2008,
+    "sector": "software"
+   },
+   {
+    "name": "Truecaller",
+    "value_busd": 0.54,
+    "status": "independent",
+    "founded": 2009,
+    "sector": "software"
+   }
+  ]
+ },
+ "ISR": {
+  "name": "Israel",
+  "flag": "🇮🇱",
+  "pop": 10.2,
+  "sourced": true,
+  "story": "The nation without a giant: its two biggest companies ever — Wiz ($32B) and CyberArk ($25B) — were both acquired in the past year, and no independent survivor tops ~$30B.",
+  "companies": [
+   {
+    "name": "Wiz",
+    "value_busd": 32,
+    "status": "acquired",
+    "founded": 2020,
+    "acquirer": "Google",
+    "exit_year": 2026,
+    "sector": "cybersecurity"
+   },
+   {
+    "name": "VAST Data",
+    "value_busd": 30,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "AI infrastructure",
+    "private": true
+   },
+   {
+    "name": "Tower Semiconductor",
+    "value_busd": 29.4,
+    "status": "independent",
+    "founded": 1993,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "CyberArk",
+    "value_busd": 25,
+    "status": "acquired",
+    "founded": 1999,
+    "acquirer": "Palo Alto Networks",
+    "exit_year": 2026,
+    "sector": "cybersecurity"
+   },
+   {
+    "name": "Mobileye",
+    "value_busd": 15.3,
+    "status": "acquired",
+    "founded": 1999,
+    "acquirer": "Intel",
+    "exit_year": 2017,
+    "sector": "autotech"
+   },
+   {
+    "name": "Nova",
+    "value_busd": 14.5,
+    "status": "independent",
+    "founded": 1993,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Check Point",
+    "value_busd": 14,
+    "status": "independent",
+    "founded": 1993,
+    "sector": "cybersecurity"
+   },
+   {
+    "name": "Cyera",
+    "value_busd": 12,
+    "status": "independent",
+    "founded": 2021,
+    "sector": "cybersecurity",
+    "private": true
+   },
+   {
+    "name": "Armis",
+    "value_busd": 7.75,
+    "status": "acquired",
+    "founded": 2015,
+    "acquirer": "ServiceNow",
+    "exit_year": 2025,
+    "sector": "cybersecurity"
+   },
+   {
+    "name": "Camtek",
+    "value_busd": 7,
+    "status": "independent",
+    "founded": 1987,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Mellanox",
+    "value_busd": 6.9,
+    "status": "acquired",
+    "founded": 1999,
+    "acquirer": "NVIDIA",
+    "exit_year": 2020,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Global-e",
+    "value_busd": 6.5,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "NICE",
+    "value_busd": 5.9,
+    "status": "independent",
+    "founded": 1986,
+    "sector": "software"
+   },
+   {
+    "name": "Amdocs",
+    "value_busd": 5.5,
+    "status": "independent",
+    "founded": 1982,
+    "sector": "telecom software"
+   },
+   {
+    "name": "NDS",
+    "value_busd": 5,
+    "status": "acquired",
+    "founded": 1988,
+    "acquirer": "Cisco",
+    "exit_year": 2012,
+    "sector": "pay-TV software"
+   },
+   {
+    "name": "Chromatis",
+    "value_busd": 4.5,
+    "status": "acquired",
+    "founded": 1998,
+    "acquirer": "Lucent",
+    "exit_year": 2000,
+    "sector": "optical networking"
+   },
+   {
+    "name": "Rapyd",
+    "value_busd": 4.5,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "ironSource",
+    "value_busd": 4.4,
+    "status": "acquired",
+    "founded": 2010,
+    "acquirer": "Unity",
+    "exit_year": 2022,
+    "sector": "adtech"
+   },
+   {
+    "name": "SolarEdge",
+    "value_busd": 4,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "energy tech"
+   },
+   {
+    "name": "Imperva",
+    "value_busd": 3.6,
+    "status": "acquired",
+    "founded": 2002,
+    "acquirer": "Thales",
+    "exit_year": 2023,
+    "sector": "cybersecurity"
+   },
+   {
+    "name": "monday.com",
+    "value_busd": 3.5,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "SaaS"
+   },
+   {
+    "name": "eToro",
+    "value_busd": 3.1,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "fintech"
+   },
+   {
+    "name": "Wix",
+    "value_busd": 3,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "SaaS"
+   },
+   {
+    "name": "Next Insurance",
+    "value_busd": 2.6,
+    "status": "acquired",
+    "founded": 2016,
+    "acquirer": "Munich Re",
+    "exit_year": 2025,
+    "sector": "insurtech"
+   },
+   {
+    "name": "Melio",
+    "value_busd": 2.5,
+    "status": "acquired",
+    "founded": 2018,
+    "acquirer": "Xero",
+    "exit_year": 2025,
+    "sector": "fintech"
+   },
+   {
+    "name": "Habana Labs",
+    "value_busd": 2,
+    "status": "acquired",
+    "founded": 2016,
+    "acquirer": "Intel",
+    "exit_year": 2019,
+    "sector": "AI chips"
+   },
+   {
+    "name": "Playtika",
+    "value_busd": 1.4,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "gaming"
+   },
+   {
+    "name": "Waze",
+    "value_busd": 1.1,
+    "status": "acquired",
+    "founded": 2008,
+    "acquirer": "Google",
+    "exit_year": 2013,
+    "sector": "mapping"
+   }
+  ]
+ },
+ "NLD": {
+  "name": "Netherlands",
+  "flag": "🇳🇱",
+  "pop": 18.1,
+  "sourced": true,
+  "story": "A semiconductor monoculture: ASML alone is ~80% of standing value, and chips overall are ~95%.",
+  "companies": [
+   {
+    "name": "ASML",
+    "value_busd": 700,
+    "status": "independent",
+    "founded": 1984,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "NXP Semiconductors",
+    "value_busd": 70.4,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "ASM International",
+    "value_busd": 51,
+    "status": "independent",
+    "founded": 1964,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Adyen",
+    "value_busd": 29.5,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "fintech"
+   },
+   {
+    "name": "Besi",
+    "value_busd": 25.4,
+    "status": "independent",
+    "founded": 1995,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Mollie",
+    "value_busd": 6.5,
+    "status": "independent",
+    "founded": 2004,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Elastic",
+    "value_busd": 6,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "software"
+   },
+   {
+    "name": "Backbase",
+    "value_busd": 2.7,
+    "status": "independent",
+    "founded": 2003,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Bunq",
+    "value_busd": 1.8,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Picnic",
+    "value_busd": 1.2,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "TomTom",
+    "value_busd": 0.55,
+    "status": "independent",
+    "founded": 1991,
+    "sector": "software"
+   },
+   {
+    "name": "Just Eat Takeaway",
+    "value_busd": 4.3,
+    "status": "acquired",
+    "founded": 2000,
+    "acquirer": "Prosus",
+    "exit_year": 2025,
+    "sector": "internet"
+   },
+   {
+    "name": "Tele Atlas",
+    "value_busd": 4.3,
+    "status": "acquired",
+    "founded": 1984,
+    "acquirer": "TomTom",
+    "exit_year": 2008,
+    "sector": "software"
+   },
+   {
+    "name": "Unit4",
+    "value_busd": 2.1,
+    "status": "acquired",
+    "founded": 1980,
+    "acquirer": "TA Associates",
+    "exit_year": 2021,
+    "sector": "software"
+   },
+   {
+    "name": "Exact",
+    "value_busd": 0.8,
+    "status": "acquired",
+    "founded": 1984,
+    "acquirer": "Apax Partners",
+    "exit_year": 2015,
+    "sector": "software"
+   },
+   {
+    "name": "Mendix",
+    "value_busd": 0.73,
+    "status": "acquired",
+    "founded": 2005,
+    "acquirer": "Siemens",
+    "exit_year": 2018,
+    "sector": "software"
+   },
+   {
+    "name": "Baan",
+    "value_busd": 0.7,
+    "status": "acquired",
+    "founded": 1978,
+    "acquirer": "Invensys",
+    "exit_year": 2000,
+    "sector": "software"
+   },
+   {
+    "name": "WeTransfer",
+    "value_busd": 0.7,
+    "status": "acquired",
+    "founded": 2009,
+    "acquirer": "Bending Spoons",
+    "exit_year": 2024,
+    "sector": "internet"
+   },
+   {
+    "name": "Booking.com",
+    "value_busd": 0.135,
+    "status": "acquired",
+    "founded": 1996,
+    "acquirer": "Priceline",
+    "exit_year": 2005,
+    "sector": "internet"
+   }
+  ]
+ },
+ "USA": {
+  "name": "United States",
+  "flag": "🇺🇸",
+  "pop": 349.2,
+  "sourced": true,
+  "story": "The yardstick: ~$26T standing — NVIDIA alone outweighs every other country on this map combined.",
+  "companies": [
+   {
+    "name": "NVIDIA",
+    "value_busd": 4850,
+    "status": "independent",
+    "founded": 1993,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Alphabet",
+    "value_busd": 4310,
+    "status": "independent",
+    "founded": 1998,
+    "sector": "internet"
+   },
+   {
+    "name": "Apple",
+    "value_busd": 4300,
+    "status": "independent",
+    "founded": 1976,
+    "sector": "consumer tech"
+   },
+   {
+    "name": "Microsoft",
+    "value_busd": 2890,
+    "status": "independent",
+    "founded": 1975,
+    "sector": "software"
+   },
+   {
+    "name": "Amazon",
+    "value_busd": 2570,
+    "status": "independent",
+    "founded": 1994,
+    "sector": "e-commerce/cloud"
+   },
+   {
+    "name": "Broadcom",
+    "value_busd": 1854,
+    "status": "independent",
+    "founded": 1991,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Meta",
+    "value_busd": 1630,
+    "status": "independent",
+    "founded": 2004,
+    "sector": "internet"
+   },
+   {
+    "name": "SpaceX",
+    "value_busd": 1580,
+    "status": "independent",
+    "founded": 2002,
+    "sector": "space/telecom"
+   },
+   {
+    "name": "Anthropic",
+    "value_busd": 965,
+    "status": "independent",
+    "founded": 2021,
+    "sector": "AI",
+    "private": true
+   },
+   {
+    "name": "OpenAI",
+    "value_busd": 852,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "AI",
+    "private": true
+   },
+   {
+    "name": "Oracle",
+    "value_busd": 362,
+    "status": "independent",
+    "founded": 1977,
+    "sector": "software"
+   },
+   {
+    "name": "Salesforce",
+    "value_busd": 139,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "software"
+   },
+   {
+    "name": "VMware",
+    "value_busd": 69,
+    "status": "acquired",
+    "founded": 1998,
+    "sector": "software",
+    "acquirer": "Broadcom",
+    "exit_year": 2023
+   },
+   {
+    "name": "Activision Blizzard",
+    "value_busd": 68.7,
+    "status": "acquired",
+    "founded": 1979,
+    "sector": "gaming",
+    "acquirer": "Microsoft",
+    "exit_year": 2023
+   },
+   {
+    "name": "EMC",
+    "value_busd": 67,
+    "status": "acquired",
+    "founded": 1979,
+    "sector": "software/storage",
+    "acquirer": "Dell",
+    "exit_year": 2016
+   },
+   {
+    "name": "Xilinx",
+    "value_busd": 49,
+    "status": "acquired",
+    "founded": 1984,
+    "sector": "semiconductors",
+    "acquirer": "AMD",
+    "exit_year": 2022
+   },
+   {
+    "name": "Twitter/X",
+    "value_busd": 44,
+    "status": "acquired",
+    "founded": 2006,
+    "sector": "internet",
+    "acquirer": "Musk group",
+    "exit_year": 2022
+   },
+   {
+    "name": "Ansys",
+    "value_busd": 35,
+    "status": "acquired",
+    "founded": 1970,
+    "sector": "software",
+    "acquirer": "Synopsys",
+    "exit_year": 2025
+   },
+   {
+    "name": "Red Hat",
+    "value_busd": 34,
+    "status": "acquired",
+    "founded": 1993,
+    "sector": "software",
+    "acquirer": "IBM",
+    "exit_year": 2019
+   },
+   {
+    "name": "Splunk",
+    "value_busd": 28,
+    "status": "acquired",
+    "founded": 2003,
+    "sector": "software",
+    "acquirer": "Cisco",
+    "exit_year": 2024
+   },
+   {
+    "name": "LinkedIn",
+    "value_busd": 26.2,
+    "status": "acquired",
+    "founded": 2002,
+    "sector": "internet",
+    "acquirer": "Microsoft",
+    "exit_year": 2016
+   },
+   {
+    "name": "WhatsApp",
+    "value_busd": 19,
+    "status": "acquired",
+    "founded": 2009,
+    "sector": "internet",
+    "acquirer": "Meta",
+    "exit_year": 2014
+   }
+  ]
+ },
+ "CAN": {
+  "name": "Canada",
+  "flag": "🇨🇦",
+  "pop": 40.5,
+  "sourced": true,
+  "story": "Shopify and Constellation are 80% of the total; the biggest exit ever (Slack) was born in Vancouver, built in San Francisco.",
+  "companies": [
+   {
+    "name": "Shopify",
+    "value_busd": 148.5,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "Constellation Software",
+    "value_busd": 42.4,
+    "status": "independent",
+    "founded": 1995,
+    "sector": "software"
+   },
+   {
+    "name": "CGI",
+    "value_busd": 14.7,
+    "status": "independent",
+    "founded": 1976,
+    "sector": "IT services"
+   },
+   {
+    "name": "Wealthsimple",
+    "value_busd": 7.4,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Descartes Systems",
+    "value_busd": 5.7,
+    "status": "independent",
+    "founded": 1981,
+    "sector": "software"
+   },
+   {
+    "name": "OpenText",
+    "value_busd": 5.5,
+    "status": "independent",
+    "founded": 1991,
+    "sector": "software"
+   },
+   {
+    "name": "BlackBerry",
+    "value_busd": 5.3,
+    "status": "independent",
+    "founded": 1984,
+    "sector": "software"
+   },
+   {
+    "name": "Slack",
+    "value_busd": 27.7,
+    "status": "acquired",
+    "founded": 2009,
+    "sector": "software",
+    "acquirer": "Salesforce",
+    "exit_year": 2021
+   },
+   {
+    "name": "ATI Technologies",
+    "value_busd": 5.4,
+    "status": "acquired",
+    "founded": 1985,
+    "sector": "semiconductors",
+    "acquirer": "AMD",
+    "exit_year": 2006
+   },
+   {
+    "name": "Corel",
+    "value_busd": 1.0,
+    "status": "acquired",
+    "founded": 1985,
+    "sector": "software",
+    "acquirer": "KKR",
+    "exit_year": 2019
+   },
+   {
+    "name": "Element AI",
+    "value_busd": 0.5,
+    "status": "acquired",
+    "founded": 2016,
+    "sector": "AI",
+    "acquirer": "ServiceNow",
+    "exit_year": 2021
+   }
+  ]
+ },
+ "GBR": {
+  "name": "United Kingdom",
+  "flag": "🇬🇧",
+  "pop": 70.0,
+  "sourced": true,
+  "story": "Far ahead of the continent — Arm plus a fintech armada — but Arm is ~90% SoftBank-owned and the icons (DeepMind, Darktrace, Deliveroo) sold abroad.",
+  "companies": [
+   {
+    "name": "Arm",
+    "value_busd": 288,
+    "status": "independent",
+    "founded": 1990,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Revolut",
+    "value_busd": 115,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Nscale",
+    "value_busd": 14.6,
+    "status": "independent",
+    "founded": 2024,
+    "sector": "AI infrastructure",
+    "private": true
+   },
+   {
+    "name": "Wise",
+    "value_busd": 12,
+    "status": "independent",
+    "founded": 2011,
+    "sector": "fintech"
+   },
+   {
+    "name": "Checkout.com",
+    "value_busd": 12,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Sage",
+    "value_busd": 9,
+    "status": "independent",
+    "founded": 1981,
+    "sector": "software"
+   },
+   {
+    "name": "Monzo",
+    "value_busd": 7.9,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Arm (2016 buyout)",
+    "value_busd": 32,
+    "status": "acquired",
+    "founded": 1990,
+    "sector": "semiconductors",
+    "acquirer": "SoftBank",
+    "exit_year": 2016
+   },
+   {
+    "name": "Aveva",
+    "value_busd": 10.4,
+    "status": "acquired",
+    "founded": 1967,
+    "sector": "software",
+    "acquirer": "Schneider Electric",
+    "exit_year": 2023
+   },
+   {
+    "name": "Micro Focus",
+    "value_busd": 5.8,
+    "status": "acquired",
+    "founded": 1976,
+    "sector": "software",
+    "acquirer": "OpenText",
+    "exit_year": 2023
+   },
+   {
+    "name": "Darktrace",
+    "value_busd": 5.3,
+    "status": "acquired",
+    "founded": 2013,
+    "sector": "cybersecurity",
+    "acquirer": "Thoma Bravo",
+    "exit_year": 2024
+   },
+   {
+    "name": "Sophos",
+    "value_busd": 3.9,
+    "status": "acquired",
+    "founded": 1985,
+    "sector": "cybersecurity",
+    "acquirer": "Thoma Bravo",
+    "exit_year": 2020
+   },
+   {
+    "name": "Deliveroo",
+    "value_busd": 3.7,
+    "status": "acquired",
+    "founded": 2013,
+    "sector": "internet",
+    "acquirer": "DoorDash",
+    "exit_year": 2025
+   },
+   {
+    "name": "Skyscanner",
+    "value_busd": 1.74,
+    "status": "acquired",
+    "founded": 2003,
+    "sector": "internet",
+    "acquirer": "Ctrip",
+    "exit_year": 2016
+   }
+  ]
+ },
+ "DEU": {
+  "name": "Germany",
+  "flag": "🇩🇪",
+  "pop": 83.6,
+  "sourced": true,
+  "story": "Europe's largest economy, one giant: SAP and Infineon are ~80% of the total — and Germany almost never sells.",
+  "companies": [
+   {
+    "name": "SAP",
+    "value_busd": 185,
+    "status": "independent",
+    "founded": 1972,
+    "sector": "software"
+   },
+   {
+    "name": "Infineon",
+    "value_busd": 104,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Helsing",
+    "value_busd": 18,
+    "status": "independent",
+    "founded": 2021,
+    "sector": "AI",
+    "private": true
+   },
+   {
+    "name": "Celonis",
+    "value_busd": 16,
+    "status": "independent",
+    "founded": 2011,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Delivery Hero",
+    "value_busd": 14.8,
+    "status": "independent",
+    "founded": 2011,
+    "sector": "internet"
+   },
+   {
+    "name": "Personio",
+    "value_busd": 8.5,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Zalando",
+    "value_busd": 8.43,
+    "status": "independent",
+    "founded": 2008,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "Nemetschek",
+    "value_busd": 7.37,
+    "status": "independent",
+    "founded": 1963,
+    "sector": "software"
+   },
+   {
+    "name": "N26",
+    "value_busd": 2.9,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Signavio",
+    "value_busd": 1.2,
+    "status": "acquired",
+    "founded": 2007,
+    "sector": "software",
+    "acquirer": "SAP",
+    "exit_year": 2021
+   },
+   {
+    "name": "trivago",
+    "value_busd": 0.63,
+    "status": "acquired",
+    "founded": 2005,
+    "sector": "internet",
+    "acquirer": "Expedia",
+    "exit_year": 2013
+   }
+  ]
+ },
+ "FRA": {
+  "name": "France",
+  "flag": "🇫🇷",
+  "pop": 66.8,
+  "sourced": true,
+  "story": "Engineering-rich, breakout-poor: the biggest pure software company dates to 1977, and the hopes ride on Mistral.",
+  "companies": [
+   {
+    "name": "Dassault Systèmes",
+    "value_busd": 27.5,
+    "status": "independent",
+    "founded": 1977,
+    "sector": "software"
+   },
+   {
+    "name": "Capgemini",
+    "value_busd": 16.25,
+    "status": "independent",
+    "founded": 1967,
+    "sector": "IT services"
+   },
+   {
+    "name": "Mistral AI",
+    "value_busd": 13.5,
+    "status": "independent",
+    "founded": 2023,
+    "sector": "AI",
+    "private": true
+   },
+   {
+    "name": "Doctolib",
+    "value_busd": 6.4,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Back Market",
+    "value_busd": 5.5,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "e-commerce",
+    "private": true
+   },
+   {
+    "name": "Alan",
+    "value_busd": 4.5,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "OVHcloud",
+    "value_busd": 2.48,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "cloud"
+   },
+   {
+    "name": "Criteo",
+    "value_busd": 1.04,
+    "status": "independent",
+    "founded": 2005,
+    "sector": "adtech"
+   },
+   {
+    "name": "Business Objects",
+    "value_busd": 6.8,
+    "status": "acquired",
+    "founded": 1990,
+    "sector": "software",
+    "acquirer": "SAP",
+    "exit_year": 2007
+   },
+   {
+    "name": "Gemalto",
+    "value_busd": 5.6,
+    "status": "acquired",
+    "founded": 2006,
+    "sector": "cybersecurity",
+    "acquirer": "Thales",
+    "exit_year": 2019
+   },
+   {
+    "name": "Talend",
+    "value_busd": 2.4,
+    "status": "acquired",
+    "founded": 2006,
+    "sector": "software",
+    "acquirer": "Thoma Bravo",
+    "exit_year": 2021
+   },
+   {
+    "name": "Zenly",
+    "value_busd": 0.21,
+    "status": "acquired",
+    "founded": 2014,
+    "sector": "internet",
+    "acquirer": "Snap",
+    "exit_year": 2017
+   }
+  ]
+ },
+ "FIN": {
+  "name": "Finland",
+  "flag": "🇫🇮",
+  "pop": 5.7,
+  "sourced": true,
+  "story": "Nokia is back (~$57B) — and the entire second act (Supercell, Wolt, Rovio, WithSecure) got sold.",
+  "companies": [
+   {
+    "name": "Nokia",
+    "value_busd": 57,
+    "status": "independent",
+    "founded": 1865,
+    "sector": "telecom equipment"
+   },
+   {
+    "name": "Oura",
+    "value_busd": 11,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "health tech",
+    "private": true
+   },
+   {
+    "name": "RELEX Solutions",
+    "value_busd": 5.7,
+    "status": "independent",
+    "founded": 2005,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "IQM",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "quantum computing",
+    "private": true
+   },
+   {
+    "name": "Qt Group",
+    "value_busd": 0.66,
+    "status": "independent",
+    "founded": 1994,
+    "sector": "software"
+   },
+   {
+    "name": "Supercell",
+    "value_busd": 10.2,
+    "status": "acquired",
+    "founded": 2010,
+    "sector": "gaming",
+    "acquirer": "Tencent",
+    "exit_year": 2016
+   },
+   {
+    "name": "Wolt",
+    "value_busd": 8.1,
+    "status": "acquired",
+    "founded": 2014,
+    "sector": "internet",
+    "acquirer": "DoorDash",
+    "exit_year": 2022
+   },
+   {
+    "name": "Rovio",
+    "value_busd": 0.78,
+    "status": "acquired",
+    "founded": 2003,
+    "sector": "gaming",
+    "acquirer": "Sega",
+    "exit_year": 2023
+   }
+  ]
+ },
+ "DNK": {
+  "name": "Denmark",
+  "flag": "🇩🇰",
+  "pop": 6.0,
+  "sourced": true,
+  "story": "Copenhagen founds them, San Francisco scales them — Unity and Zendesk were both born here.",
+  "companies": [
+   {
+    "name": "Unity",
+    "value_busd": 10.8,
+    "status": "independent",
+    "founded": 2004,
+    "sector": "gaming"
+   },
+   {
+    "name": "Tradeshift",
+    "value_busd": 2.7,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Trustpilot",
+    "value_busd": 1.31,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "internet"
+   },
+   {
+    "name": "Sitecore",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2001,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Zendesk",
+    "value_busd": 10.2,
+    "status": "acquired",
+    "founded": 2007,
+    "sector": "software",
+    "acquirer": "Permira & H&F",
+    "exit_year": 2022
+   },
+   {
+    "name": "Navision",
+    "value_busd": 1.45,
+    "status": "acquired",
+    "founded": 1983,
+    "sector": "software",
+    "acquirer": "Microsoft",
+    "exit_year": 2002
+   }
+  ]
+ },
+ "NOR": {
+  "name": "Norway",
+  "flag": "🇳🇴",
+  "pop": 5.65,
+  "sourced": true,
+  "story": "One quiet giant nobody abroad can name — Visma (~$22B) — and this month's Cognite sale was the biggest exit ever.",
+  "companies": [
+   {
+    "name": "Visma",
+    "value_busd": 22,
+    "status": "independent",
+    "founded": 1996,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "AutoStore",
+    "value_busd": 3.83,
+    "status": "independent",
+    "founded": 1996,
+    "sector": "robotics"
+   },
+   {
+    "name": "Dune Analytics",
+    "value_busd": 1.1,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Gelato",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Remarkable",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "consumer tech",
+    "private": true
+   },
+   {
+    "name": "Cognite",
+    "value_busd": 3.1,
+    "status": "acquired",
+    "founded": 2016,
+    "sector": "software",
+    "acquirer": "Schneider Electric",
+    "exit_year": 2026
+   },
+   {
+    "name": "Kahoot",
+    "value_busd": 1.7,
+    "status": "acquired",
+    "founded": 2012,
+    "sector": "software",
+    "acquirer": "Goldman Sachs-led group",
+    "exit_year": 2023
+   },
+   {
+    "name": "Fast Search & Transfer",
+    "value_busd": 1.2,
+    "status": "acquired",
+    "founded": 1997,
+    "sector": "software",
+    "acquirer": "Microsoft",
+    "exit_year": 2008
+   },
+   {
+    "name": "Opera",
+    "value_busd": 0.6,
+    "status": "acquired",
+    "founded": 1995,
+    "sector": "internet",
+    "acquirer": "Chinese consortium",
+    "exit_year": 2016
+   }
+  ]
+ },
+ "EST": {
+  "name": "Estonia",
+  "flag": "🇪🇪",
+  "pop": 1.33,
+  "sourced": true,
+  "story": "Skype's engineers were Tallinn's — the alumni seeded Europe's densest startup scene. Wise (counted for the UK) and Bolt carry the flag.",
+  "companies": [
+   {
+    "name": "Bolt",
+    "value_busd": 11,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Veriff",
+    "value_busd": 1.5,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "cybersecurity",
+    "private": true
+   },
+   {
+    "name": "Pipedrive",
+    "value_busd": 1.5,
+    "status": "acquired",
+    "founded": 2010,
+    "sector": "software",
+    "acquirer": "Vista Equity",
+    "exit_year": 2020
+   }
+  ]
+ },
+ "IRL": {
+  "name": "Ireland",
+  "flag": "🇮🇪",
+  "pop": 5.36,
+  "sourced": true,
+  "story": "Ireland exports founders, not companies: Stripe ($159B) and Intercom were built by Irishmen in San Francisco. Count them and Ireland rivals Israel — this map doesn't, and that gap IS the story.",
+  "companies": [
+   {
+    "name": "Workhuman",
+    "value_busd": 5.0,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Fenergo",
+    "value_busd": 1.17,
+    "status": "independent",
+    "founded": 2009,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Tines",
+    "value_busd": 1.13,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "FINEOS",
+    "value_busd": 0.48,
+    "status": "independent",
+    "founded": 1993,
+    "sector": "software"
+   },
+   {
+    "name": "Movidius",
+    "value_busd": 0.4,
+    "status": "acquired",
+    "founded": 2005,
+    "sector": "semiconductors",
+    "acquirer": "Intel",
+    "exit_year": 2016
+   },
+   {
+    "name": "Workvivo",
+    "value_busd": 0.22,
+    "status": "acquired",
+    "founded": 2017,
+    "sector": "software",
+    "acquirer": "Zoom",
+    "exit_year": 2023
+   }
+  ]
+ },
+ "CHE": {
+  "name": "Switzerland",
+  "flag": "🇨🇭",
+  "pop": 9.0,
+  "sourced": true,
+  "story": "Quiet B2B depth — and most 'Swiss' giants on the lists (TE Connectivity, Garmin, STMicro) aren't Swiss-founded at all.",
+  "companies": [
+   {
+    "name": "Logitech",
+    "value_busd": 14.8,
+    "status": "independent",
+    "founded": 1981,
+    "sector": "consumer tech"
+   },
+   {
+    "name": "Temenos",
+    "value_busd": 6.26,
+    "status": "independent",
+    "founded": 1993,
+    "sector": "fintech"
+   },
+   {
+    "name": "Sportradar",
+    "value_busd": 4.6,
+    "status": "independent",
+    "founded": 2001,
+    "sector": "software"
+   },
+   {
+    "name": "u-blox",
+    "value_busd": 1.34,
+    "status": "independent",
+    "founded": 1997,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Scandit",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Proton",
+    "value_busd": 0.31,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Nexthink",
+    "value_busd": 3.0,
+    "status": "acquired",
+    "founded": 2004,
+    "sector": "software",
+    "acquirer": "Vista Equity",
+    "exit_year": 2025
+   },
+   {
+    "name": "Avaloq",
+    "value_busd": 2.2,
+    "status": "acquired",
+    "founded": 1995,
+    "sector": "fintech",
+    "acquirer": "NEC",
+    "exit_year": 2020
+   }
+  ]
+ },
+ "ESP": {
+  "name": "Spain",
+  "flag": "🇪🇸",
+  "pop": 47.85,
+  "sourced": true,
+  "story": "Amadeus — the giant nobody calls tech — is three-quarters of the scoreboard.",
+  "companies": [
+   {
+    "name": "Amadeus IT Group",
+    "value_busd": 25.6,
+    "status": "independent",
+    "founded": 1987,
+    "sector": "travel tech"
+   },
+   {
+    "name": "TravelPerk",
+    "value_busd": 2.7,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Factorial",
+    "value_busd": 2.5,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Cabify",
+    "value_busd": 1.4,
+    "status": "independent",
+    "founded": 2011,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "eDreams ODIGEO",
+    "value_busd": 0.52,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "internet"
+   },
+   {
+    "name": "Wallbox",
+    "value_busd": 0.1,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "energy tech"
+   },
+   {
+    "name": "Glovo",
+    "value_busd": 2.6,
+    "status": "acquired",
+    "founded": 2015,
+    "sector": "internet",
+    "acquirer": "Delivery Hero",
+    "exit_year": 2022
+   },
+   {
+    "name": "Idealista",
+    "value_busd": 1.4,
+    "status": "acquired",
+    "founded": 1997,
+    "sector": "internet",
+    "acquirer": "EQT",
+    "exit_year": 2020
+   },
+   {
+    "name": "Tuenti",
+    "value_busd": 0.1,
+    "status": "acquired",
+    "founded": 2006,
+    "sector": "internet",
+    "acquirer": "Telefónica",
+    "exit_year": 2010
+   }
+  ]
+ },
+ "POL": {
+  "name": "Poland",
+  "flag": "🇵🇱",
+  "pop": 37.8,
+  "sourced": true,
+  "story": "Poland IPOs at home instead of selling — and its biggest 'tech company', ElevenLabs ($11B), was founded by Poles abroad, so it doesn't count here. That gap is the story.",
+  "companies": [
+   {
+    "name": "Allegro",
+    "value_busd": 11.9,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "InPost",
+    "value_busd": 8.8,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "logistics tech"
+   },
+   {
+    "name": "CD Projekt",
+    "value_busd": 5.9,
+    "status": "independent",
+    "founded": 1994,
+    "sector": "gaming"
+   },
+   {
+    "name": "Asseco Poland",
+    "value_busd": 5.1,
+    "status": "independent",
+    "founded": 1991,
+    "sector": "software"
+   },
+   {
+    "name": "DocPlanner",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Grupa Pracuj",
+    "value_busd": 0.9,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "internet"
+   },
+   {
+    "name": "Text (LiveChat)",
+    "value_busd": 0.3,
+    "status": "independent",
+    "founded": 2002,
+    "sector": "software"
+   },
+   {
+    "name": "Techland",
+    "value_busd": 1.5,
+    "status": "acquired",
+    "founded": 1991,
+    "sector": "gaming",
+    "acquirer": "Tencent",
+    "exit_year": 2023
+   },
+   {
+    "name": "Onet.pl",
+    "value_busd": 0.36,
+    "status": "acquired",
+    "founded": 1996,
+    "sector": "internet",
+    "acquirer": "Ringier Axel Springer",
+    "exit_year": 2012
+   }
+  ]
+ },
+ "CHN": {
+  "name": "China",
+  "flag": "🇨🇳",
+  "pop": 1412.9,
+  "sourced": true,
+  "story": "The walled garden: ~$2.2T standing and effectively zero realized — capital controls mean China's tech is never for sale.",
+  "companies": [
+   {
+    "name": "Tencent",
+    "value_busd": 550,
+    "status": "independent",
+    "founded": 1998,
+    "sector": "internet"
+   },
+   {
+    "name": "ByteDance",
+    "value_busd": 550,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Alibaba",
+    "value_busd": 282,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "Zhongji Innolight",
+    "value_busd": 172,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Huawei",
+    "value_busd": 128,
+    "status": "independent",
+    "founded": 1987,
+    "sector": "telecom equipment",
+    "private": true
+   },
+   {
+    "name": "PDD Holdings",
+    "value_busd": 121,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "Cambricon",
+    "value_busd": 114,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "AI chips"
+   },
+   {
+    "name": "Ant Group",
+    "value_busd": 108,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Xiaomi",
+    "value_busd": 86,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "consumer tech"
+   },
+   {
+    "name": "SMIC",
+    "value_busd": 78,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "semiconductors"
+   }
+  ]
+ },
+ "JPN": {
+  "name": "Japan",
+  "flag": "🇯🇵",
+  "pop": 122.4,
+  "sourced": true,
+  "story": "The quiet superpower: five chip-equipment makers outweigh Sony and Nintendo combined — and nothing is ever sold. Japan's top startup (Sakana AI) is just $2.7B.",
+  "companies": [
+   {
+    "name": "Tokyo Electron",
+    "value_busd": 173.9,
+    "status": "independent",
+    "founded": 1963,
+    "sector": "semiconductor equipment"
+   },
+   {
+    "name": "Advantest",
+    "value_busd": 127.9,
+    "status": "independent",
+    "founded": 1954,
+    "sector": "semiconductor equipment"
+   },
+   {
+    "name": "Sony",
+    "value_busd": 121.5,
+    "status": "independent",
+    "founded": 1946,
+    "sector": "consumer tech"
+   },
+   {
+    "name": "Keyence",
+    "value_busd": 106.3,
+    "status": "independent",
+    "founded": 1974,
+    "sector": "machine vision"
+   },
+   {
+    "name": "Recruit Holdings",
+    "value_busd": 102.4,
+    "status": "independent",
+    "founded": 1960,
+    "sector": "internet"
+   },
+   {
+    "name": "Nintendo",
+    "value_busd": 49.7,
+    "status": "independent",
+    "founded": 1889,
+    "sector": "gaming"
+   },
+   {
+    "name": "Renesas",
+    "value_busd": 43.5,
+    "status": "independent",
+    "founded": 2002,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Disco",
+    "value_busd": 40.3,
+    "status": "independent",
+    "founded": 1937,
+    "sector": "semiconductor equipment"
+   },
+   {
+    "name": "Lasertec",
+    "value_busd": 23.6,
+    "status": "independent",
+    "founded": 1957,
+    "sector": "semiconductor equipment"
+   },
+   {
+    "name": "SCREEN Holdings",
+    "value_busd": 18.3,
+    "status": "independent",
+    "founded": 1943,
+    "sector": "semiconductor equipment"
+   }
+  ]
+ },
+ "KOR": {
+  "name": "South Korea",
+  "flag": "🇰🇷",
+  "pop": 51.6,
+  "sourced": true,
+  "story": "The memory duopoly ate the card: Samsung + SK Hynix are ~$2T of the $2.2T total. The biggest exit ever was domestic — Naver buying crypto exchange Dunamu.",
+  "companies": [
+   {
+    "name": "Samsung Electronics",
+    "value_busd": 1120,
+    "status": "independent",
+    "founded": 1969,
+    "sector": "semiconductors/consumer tech"
+   },
+   {
+    "name": "SK Hynix",
+    "value_busd": 923,
+    "status": "independent",
+    "founded": 1983,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Coupang",
+    "value_busd": 28.1,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "LG Electronics",
+    "value_busd": 22.4,
+    "status": "independent",
+    "founded": 1958,
+    "sector": "consumer tech"
+   },
+   {
+    "name": "Naver",
+    "value_busd": 21.2,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "internet"
+   },
+   {
+    "name": "Kakao",
+    "value_busd": 15,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "internet"
+   },
+   {
+    "name": "Toss (Viva Republica)",
+    "value_busd": 12.5,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Nexon",
+    "value_busd": 10.9,
+    "status": "independent",
+    "founded": 1994,
+    "sector": "gaming"
+   },
+   {
+    "name": "Krafton",
+    "value_busd": 7.8,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "gaming"
+   },
+   {
+    "name": "KakaoBank",
+    "value_busd": 7,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "fintech"
+   },
+   {
+    "name": "Dunamu",
+    "value_busd": 10.3,
+    "status": "acquired",
+    "founded": 2014,
+    "sector": "crypto exchange",
+    "acquirer": "Naver",
+    "exit_year": 2025
+   },
+   {
+    "name": "Woowa Brothers",
+    "value_busd": 4,
+    "status": "acquired",
+    "founded": 2010,
+    "sector": "internet",
+    "acquirer": "Delivery Hero",
+    "exit_year": 2021
+   },
+   {
+    "name": "Hyperconnect",
+    "value_busd": 1.7,
+    "status": "acquired",
+    "founded": 2014,
+    "sector": "internet",
+    "acquirer": "Match Group",
+    "exit_year": 2021
+   }
+  ]
+ },
+ "TWN": {
+  "name": "Taiwan",
+  "flag": "🇹🇼",
+  "pop": 23.0,
+  "sourced": true,
+  "story": "The indispensable island: $2.9T standing — the highest per-capita tech value on Earth (~$128K/person, double the US).",
+  "companies": [
+   {
+    "name": "TSMC",
+    "value_busd": 2155,
+    "status": "independent",
+    "founded": 1987,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "MediaTek",
+    "value_busd": 185,
+    "status": "independent",
+    "founded": 1997,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Delta Electronics",
+    "value_busd": 143,
+    "status": "independent",
+    "founded": 1971,
+    "sector": "electronics"
+   },
+   {
+    "name": "Foxconn (Hon Hai)",
+    "value_busd": 109,
+    "status": "independent",
+    "founded": 1974,
+    "sector": "electronics manufacturing"
+   },
+   {
+    "name": "Wiwynn",
+    "value_busd": 98.7,
+    "status": "independent",
+    "founded": 2004,
+    "sector": "AI infrastructure"
+   },
+   {
+    "name": "ASE Group",
+    "value_busd": 86.6,
+    "status": "independent",
+    "founded": 1984,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "UMC",
+    "value_busd": 52.4,
+    "status": "independent",
+    "founded": 1980,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Yageo",
+    "value_busd": 40.8,
+    "status": "independent",
+    "founded": 1977,
+    "sector": "electronics"
+   },
+   {
+    "name": "Unimicron",
+    "value_busd": 40.8,
+    "status": "independent",
+    "founded": 1990,
+    "sector": "electronics"
+   },
+   {
+    "name": "Quanta Computer",
+    "value_busd": 39.1,
+    "status": "independent",
+    "founded": 1988,
+    "sector": "electronics manufacturing"
+   }
+  ]
+ },
+ "IND": {
+  "name": "India",
+  "flag": "🇮🇳",
+  "pop": 1477,
+  "sourced": true,
+  "story": "IT services built most of the card — and AI is eating it (TCS halved). Consumer tech IPOs at home; the one mega-exit was Flipkart to Walmart.",
+  "companies": [
+   {
+    "name": "TCS",
+    "value_busd": 84.5,
+    "status": "independent",
+    "founded": 1974,
+    "sector": "IT services"
+   },
+   {
+    "name": "Infosys",
+    "value_busd": 43.2,
+    "status": "independent",
+    "founded": 1981,
+    "sector": "IT services"
+   },
+   {
+    "name": "HCL Technologies",
+    "value_busd": 40.9,
+    "status": "independent",
+    "founded": 1976,
+    "sector": "IT services"
+   },
+   {
+    "name": "Eternal (Zomato)",
+    "value_busd": 33,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "internet"
+   },
+   {
+    "name": "Wipro",
+    "value_busd": 21,
+    "status": "independent",
+    "founded": 1980,
+    "sector": "IT services"
+   },
+   {
+    "name": "Zoho",
+    "value_busd": 12.5,
+    "status": "independent",
+    "founded": 1996,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Paytm",
+    "value_busd": 10.4,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "fintech"
+   },
+   {
+    "name": "Swiggy",
+    "value_busd": 8.3,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "internet"
+   },
+   {
+    "name": "Freshworks",
+    "value_busd": 2.9,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "software"
+   },
+   {
+    "name": "Flipkart",
+    "value_busd": 16,
+    "status": "acquired",
+    "founded": 2007,
+    "sector": "e-commerce",
+    "acquirer": "Walmart",
+    "exit_year": 2018
+   },
+   {
+    "name": "BigBasket",
+    "value_busd": 1.3,
+    "status": "acquired",
+    "founded": 2011,
+    "sector": "e-commerce",
+    "acquirer": "Tata Digital",
+    "exit_year": 2021
+   }
+  ]
+ },
+ "RUS": {
+  "name": "Russia",
+  "flag": "🇷🇺",
+  "pop": 143.4,
+  "sourced": true,
+  "story": "The scoreboard sanctions built: the global halves left (Nebius, Telegram), Wildberries can't be priced, and what's listed is worth less than Estonia's startups. Ruble caps are not internationally comparable.",
+  "companies": [
+   {
+    "name": "Yandex (Russian entity)",
+    "value_busd": 5.2,
+    "status": "independent",
+    "founded": 1997,
+    "sector": "internet"
+   },
+   {
+    "name": "Ozon",
+    "value_busd": 2.4,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "VK",
+    "value_busd": 1.1,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "internet"
+   },
+   {
+    "name": "Yandex international sale",
+    "value_busd": 5.2,
+    "status": "acquired",
+    "founded": 1997,
+    "sector": "internet",
+    "acquirer": "Russian investor consortium",
+    "exit_year": 2024
+   }
+  ]
+ },
+ "TUR": {
+  "name": "Turkey",
+  "flag": "🇹🇷",
+  "pop": 87.9,
+  "sourced": true,
+  "story": "Istanbul makes games and apps; the wins sell early (Peak, Trendyol's majority went for $728M) and the unicorns deflate — Getir fell from $11.8B to a $335M asset sale.",
+  "companies": [
+   {
+    "name": "Dream Games",
+    "value_busd": 5,
+    "status": "independent",
+    "founded": 2019,
+    "sector": "gaming",
+    "private": true
+   },
+   {
+    "name": "Insider",
+    "value_busd": 2,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Papara",
+    "value_busd": 2,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Hepsiburada",
+    "value_busd": 1.1,
+    "status": "independent",
+    "founded": 1998,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "Peak Games",
+    "value_busd": 2.1,
+    "status": "acquired",
+    "founded": 2010,
+    "sector": "gaming",
+    "acquirer": "Zynga",
+    "exit_year": 2020
+   },
+   {
+    "name": "Trendyol",
+    "value_busd": 0.73,
+    "status": "acquired",
+    "founded": 2010,
+    "sector": "e-commerce",
+    "acquirer": "Alibaba",
+    "exit_year": 2018
+   },
+   {
+    "name": "Getir",
+    "value_busd": 0.34,
+    "status": "acquired",
+    "founded": 2015,
+    "sector": "internet",
+    "acquirer": "Uber",
+    "exit_year": 2026
+   }
+  ]
+ },
+ "ARE": {
+  "name": "UAE",
+  "flag": "🇦🇪",
+  "pop": 11.6,
+  "sourced": true,
+  "story": "The Gulf's hub imports its giants: Telegram — founded by a Russian, run from Dubai — is half the card. Careem remains the only big homegrown exit.",
+  "companies": [
+   {
+    "name": "Telegram",
+    "value_busd": 30,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "G42",
+    "value_busd": 12.5,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "AI",
+    "private": true
+   },
+   {
+    "name": "Presight AI",
+    "value_busd": 5.5,
+    "status": "independent",
+    "founded": 2020,
+    "sector": "AI"
+   },
+   {
+    "name": "Tabby",
+    "value_busd": 4.5,
+    "status": "independent",
+    "founded": 2019,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "SPACE42",
+    "value_busd": 2.1,
+    "status": "independent",
+    "founded": 2017,
+    "sector": "satellite services"
+   },
+   {
+    "name": "Property Finder",
+    "value_busd": 2,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Careem",
+    "value_busd": 3.1,
+    "status": "acquired",
+    "founded": 2012,
+    "sector": "internet",
+    "acquirer": "Uber",
+    "exit_year": 2019
+   }
+  ]
+ },
+ "BRA": {
+  "name": "Brazil",
+  "flag": "🇧🇷",
+  "pop": 213.6,
+  "sourced": true,
+  "story": "Fintech nation: Nubank is two-thirds of the card, and eight of nine anchors are payments or banking apps.",
+  "companies": [
+   {
+    "name": "Nubank",
+    "value_busd": 68.5,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "fintech"
+   },
+   {
+    "name": "XP",
+    "value_busd": 8.7,
+    "status": "independent",
+    "founded": 2001,
+    "sector": "fintech"
+   },
+   {
+    "name": "iFood",
+    "value_busd": 5.4,
+    "status": "independent",
+    "founded": 2011,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "QuintoAndar",
+    "value_busd": 5.1,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Totvs",
+    "value_busd": 3,
+    "status": "independent",
+    "founded": 1983,
+    "sector": "software"
+   },
+   {
+    "name": "StoneCo",
+    "value_busd": 2.7,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "fintech"
+   },
+   {
+    "name": "PagSeguro",
+    "value_busd": 2.6,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "fintech"
+   },
+   {
+    "name": "PicPay",
+    "value_busd": 2.5,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "fintech"
+   },
+   {
+    "name": "Inter & Co",
+    "value_busd": 2.4,
+    "status": "independent",
+    "founded": 1994,
+    "sector": "fintech"
+   },
+   {
+    "name": "99",
+    "value_busd": 1,
+    "status": "acquired",
+    "founded": 2012,
+    "sector": "internet",
+    "acquirer": "Didi",
+    "exit_year": 2018
+   }
+  ]
+ },
+ "ARG": {
+  "name": "Argentina",
+  "flag": "🇦🇷",
+  "pop": 46.0,
+  "sourced": true,
+  "story": "MercadoLibre is 95% of the card — Latin America's giant is Argentine. Auth0's founders were Argentine too, but it was born in Seattle (excluded by our rule).",
+  "companies": [
+   {
+    "name": "MercadoLibre",
+    "value_busd": 91.3,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "e-commerce"
+   },
+   {
+    "name": "Ualá",
+    "value_busd": 3.2,
+    "status": "independent",
+    "founded": 2017,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Globant",
+    "value_busd": 1.2,
+    "status": "independent",
+    "founded": 2003,
+    "sector": "IT services"
+   },
+   {
+    "name": "Despegar",
+    "value_busd": 1.7,
+    "status": "acquired",
+    "founded": 1999,
+    "sector": "internet",
+    "acquirer": "Prosus",
+    "exit_year": 2025
+   }
+  ]
+ },
+ "AUS": {
+  "name": "Australia",
+  "flag": "🇦🇺",
+  "pop": 27.2,
+  "sourced": true,
+  "story": "SaaS islands: Canva ($42B) has overtaken Atlassian — and the biggest exit (Afterpay, $29B) sold at the very top of the market.",
+  "companies": [
+   {
+    "name": "Canva",
+    "value_busd": 42,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Atlassian",
+    "value_busd": 40.7,
+    "status": "independent",
+    "founded": 2002,
+    "sector": "software"
+   },
+   {
+    "name": "WiseTech Global",
+    "value_busd": 21.5,
+    "status": "independent",
+    "founded": 1994,
+    "sector": "software"
+   },
+   {
+    "name": "REA Group",
+    "value_busd": 13.1,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "internet"
+   },
+   {
+    "name": "Computershare",
+    "value_busd": 10.7,
+    "status": "independent",
+    "founded": 1993,
+    "sector": "fintech"
+   },
+   {
+    "name": "NEXTDC",
+    "value_busd": 7.1,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "cloud infrastructure"
+   },
+   {
+    "name": "carsales.com",
+    "value_busd": 6.8,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "internet"
+   },
+   {
+    "name": "Afterpay",
+    "value_busd": 29,
+    "status": "acquired",
+    "founded": 2014,
+    "sector": "fintech",
+    "acquirer": "Block",
+    "exit_year": 2021
+   },
+   {
+    "name": "Altium",
+    "value_busd": 5.9,
+    "status": "acquired",
+    "founded": 1998,
+    "sector": "software",
+    "acquirer": "Renesas",
+    "exit_year": 2024
+   },
+   {
+    "name": "Eucalyptus",
+    "value_busd": 1.6,
+    "status": "acquired",
+    "founded": 2019,
+    "sector": "software",
+    "acquirer": "Hims & Hers",
+    "exit_year": 2026
+   }
+  ]
+ },
+ "SGP": {
+  "name": "Singapore",
+  "flag": "🇸🇬",
+  "pop": 5.9,
+  "sourced": true,
+  "story": "The hub: Sea and Grab both fly Singapore's flag — one born here, one adopted from Malaysia under the same headcount rule we use everywhere.",
+  "companies": [
+   {
+    "name": "Sea Limited",
+    "value_busd": 60.9,
+    "status": "independent",
+    "founded": 2009,
+    "sector": "internet"
+   },
+   {
+    "name": "Grab",
+    "value_busd": 13.5,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "internet"
+   },
+   {
+    "name": "Venture Corporation",
+    "value_busd": 3.6,
+    "status": "independent",
+    "founded": 1989,
+    "sector": "electronics manufacturing"
+   },
+   {
+    "name": "Bitdeer",
+    "value_busd": 3,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "crypto infrastructure"
+   },
+   {
+    "name": "iFAST",
+    "value_busd": 2.2,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "fintech"
+   },
+   {
+    "name": "PatSnap",
+    "value_busd": 1.1,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Carousell",
+    "value_busd": 1.1,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Lazada",
+    "value_busd": 2,
+    "status": "acquired",
+    "founded": 2012,
+    "sector": "e-commerce",
+    "acquirer": "Alibaba",
+    "exit_year": 2016
+   }
+  ]
+ },
+ "ITA": {
+  "name": "Italy",
+  "flag": "🇮🇹",
+  "pop": 58.9,
+  "sourced": true,
+  "story": "Italy's two giants came out of nowhere: Technoprobe's chip test-cards and Bending Spoons' app empire, which IPO'd this month at $21B.",
+  "companies": [
+   {
+    "name": "Technoprobe",
+    "value_busd": 26,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "semiconductors"
+   },
+   {
+    "name": "Bending Spoons",
+    "value_busd": 21.2,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "software"
+   },
+   {
+    "name": "Nexi",
+    "value_busd": 5.3,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "fintech"
+   },
+   {
+    "name": "Reply",
+    "value_busd": 4,
+    "status": "independent",
+    "founded": 1996,
+    "sector": "IT services"
+   },
+   {
+    "name": "Satispay",
+    "value_busd": 1.2,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Yoox Net-a-Porter",
+    "value_busd": 3,
+    "status": "acquired",
+    "founded": 2000,
+    "sector": "e-commerce",
+    "acquirer": "Richemont",
+    "exit_year": 2018
+   }
+  ]
+ },
+ "PRT": {
+  "name": "Portugal",
+  "flag": "🇵🇹",
+  "pop": 10.4,
+  "sourced": true,
+  "story": "Portugal founds and keeps (OutSystems, Sword, Feedzai) — while its most famous 'Portuguese' companies, Farfetch and Talkdesk, were born abroad and don't count.",
+  "companies": [
+   {
+    "name": "OutSystems",
+    "value_busd": 9.5,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Sword Health",
+    "value_busd": 4,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Feedzai",
+    "value_busd": 2,
+    "status": "independent",
+    "founded": 2008,
+    "sector": "fintech",
+    "private": true
+   }
+  ]
+ },
+ "GRC": {
+  "name": "Greece",
+  "flag": "🇬🇷",
+  "pop": 9.9,
+  "sourced": true,
+  "story": "Greece's first unicorn sold 48.5% to JPMorgan and kept its flag by half a percent.",
+  "companies": [
+   {
+    "name": "Viva Wallet",
+    "value_busd": 2,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "PeopleCert",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Skroutz",
+    "value_busd": 0.75,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "internet",
+    "private": true
+   }
+  ]
+ },
+ "AUT": {
+  "name": "Austria",
+  "flag": "🇦🇹",
+  "pop": 9.1,
+  "sourced": true,
+  "story": "Dynatrace, born in Linz, is half the card; Bitpanda's Frankfurt IPO keeps slipping.",
+  "companies": [
+   {
+    "name": "Dynatrace",
+    "value_busd": 11.7,
+    "status": "independent",
+    "founded": 2005,
+    "sector": "software"
+   },
+   {
+    "name": "Tricentis",
+    "value_busd": 4.5,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Bitpanda",
+    "value_busd": 4.1,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "GoStudent",
+    "value_busd": 3.2,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Runtastic",
+    "value_busd": 0.24,
+    "status": "acquired",
+    "founded": 2009,
+    "sector": "software",
+    "acquirer": "Adidas",
+    "exit_year": 2015
+   },
+   {
+    "name": "mySugr",
+    "value_busd": 0.09,
+    "status": "acquired",
+    "founded": 2012,
+    "sector": "software",
+    "acquirer": "Roche",
+    "exit_year": 2017
+   }
+  ]
+ },
+ "HUN": {
+  "name": "Hungary",
+  "flag": "🇭🇺",
+  "pop": 9.6,
+  "sourced": true,
+  "story": "Hungary sells: LogMeIn's $4.3B exit is four times everything Budapest still owns.",
+  "companies": [
+   {
+    "name": "Prezi",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2009,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Bitrise",
+    "value_busd": 0.09,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "LogMeIn",
+    "value_busd": 4.3,
+    "status": "acquired",
+    "founded": 2003,
+    "sector": "software",
+    "acquirer": "Francisco Partners",
+    "exit_year": 2020
+   },
+   {
+    "name": "Ustream",
+    "value_busd": 0.13,
+    "status": "acquired",
+    "founded": 2007,
+    "sector": "internet",
+    "acquirer": "IBM",
+    "exit_year": 2016
+   },
+   {
+    "name": "Graphisoft",
+    "value_busd": 0.12,
+    "status": "acquired",
+    "founded": 1982,
+    "sector": "software",
+    "acquirer": "Nemetschek",
+    "exit_year": 2006
+   }
+  ]
+ },
+ "SVK": {
+  "name": "Slovakia",
+  "flag": "🇸🇰",
+  "pop": 5.5,
+  "sourced": true,
+  "story": "ESET is Slovakia: founder-owned since 1992, never priced by any market. (Estimate shown.)",
+  "companies": [
+   {
+    "name": "ESET",
+    "value_busd": 2,
+    "status": "independent",
+    "founded": 1992,
+    "sector": "cybersecurity",
+    "private": true
+   }
+  ]
+ },
+ "CZE": {
+  "name": "Czechia",
+  "flag": "🇨🇿",
+  "pop": 10.9,
+  "sourced": true,
+  "story": "Bootstrapped Prague: JetBrains (~$7B, never raised a dollar) — and Avast, sold for $8.6B.",
+  "companies": [
+   {
+    "name": "JetBrains",
+    "value_busd": 7,
+    "status": "independent",
+    "founded": 2000,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Avast",
+    "value_busd": 8.6,
+    "status": "acquired",
+    "founded": 1988,
+    "sector": "cybersecurity",
+    "acquirer": "Gen Digital (NortonLifeLock)",
+    "exit_year": 2022
+   }
+  ]
+ },
+ "ROU": {
+  "name": "Romania",
+  "flag": "🇷🇴",
+  "pop": 19.0,
+  "sourced": true,
+  "story": "UiPath: from a Bucharest apartment to a $35B peak — and back to $6B. Still Romania's whole card.",
+  "companies": [
+   {
+    "name": "UiPath",
+    "value_busd": 6.2,
+    "status": "independent",
+    "founded": 2005,
+    "sector": "software"
+   },
+   {
+    "name": "Bitdefender",
+    "value_busd": 0.6,
+    "status": "independent",
+    "founded": 2001,
+    "sector": "cybersecurity",
+    "private": true
+   }
+  ]
+ },
+ "BGR": {
+  "name": "Bulgaria",
+  "flag": "🇧🇬",
+  "pop": 6.4,
+  "sourced": true,
+  "story": "Payhawk carries the flag Telerik planted.",
+  "companies": [
+   {
+    "name": "Payhawk",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Telerik",
+    "value_busd": 0.26,
+    "status": "acquired",
+    "founded": 2002,
+    "sector": "software",
+    "acquirer": "Progress Software",
+    "exit_year": 2014
+   }
+  ]
+ },
+ "UKR": {
+  "name": "Ukraine",
+  "flag": "🇺🇦",
+  "pop": 33.5,
+  "sourced": true,
+  "story": "Wartime resilience: Grammarly, Preply, and Ajax — all Kyiv-born, all still growing through the war. GitLab began in Ukrainian code but grew up American (excluded).",
+  "companies": [
+   {
+    "name": "Grammarly",
+    "value_busd": 13,
+    "status": "independent",
+    "founded": 2009,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Creatio",
+    "value_busd": 1.2,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Preply",
+    "value_busd": 1.2,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Ajax Systems",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2011,
+    "sector": "hardware/security",
+    "private": true
+   },
+   {
+    "name": "Looksery",
+    "value_busd": 0.15,
+    "status": "acquired",
+    "founded": 2013,
+    "sector": "software",
+    "acquirer": "Snap",
+    "exit_year": 2015
+   }
+  ]
+ },
+ "LTU": {
+  "name": "Lithuania",
+  "flag": "🇱🇹",
+  "pop": 2.8,
+  "sourced": true,
+  "story": "Vilnius quietly built Vinted (€8B) and NordVPN. Wargaming's biggest studio is here — but it was born in Minsk, so it doesn't count.",
+  "companies": [
+   {
+    "name": "Vinted",
+    "value_busd": 8.8,
+    "status": "independent",
+    "founded": 2008,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Nord Security",
+    "value_busd": 3,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "cybersecurity",
+    "private": true
+   },
+   {
+    "name": "CAST AI",
+    "value_busd": 1.05,
+    "status": "independent",
+    "founded": 2019,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Baltic Classifieds",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 1999,
+    "sector": "internet"
+   }
+  ]
+ },
+ "LVA": {
+  "name": "Latvia",
+  "flag": "🇱🇻",
+  "pop": 1.84,
+  "sourced": true,
+  "story": "One unicorn card: Fyul, the Printful-Printify print-on-demand merger — Latvia's first and only.",
+  "companies": [
+   {
+    "name": "Fyul (Printful+Printify)",
+    "value_busd": 1.5,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "e-commerce",
+    "private": true
+   }
+  ]
+ },
+ "HRV": {
+  "name": "Croatia",
+  "flag": "🇭🇷",
+  "pop": 3.8,
+  "sourced": true,
+  "story": "Infobip — a $10B messaging giant from Vodnjan, population six thousand — plus the math app Google bought.",
+  "companies": [
+   {
+    "name": "Infobip",
+    "value_busd": 10,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Photomath",
+    "value_busd": 0.55,
+    "status": "acquired",
+    "founded": 2014,
+    "sector": "software",
+    "acquirer": "Google",
+    "exit_year": 2023
+   }
+  ]
+ },
+ "SRB": {
+  "name": "Serbia",
+  "flag": "🇷🇸",
+  "pop": 6.6,
+  "sourced": true,
+  "story": "Serbia ships engineers and games — Top Eleven's maker was the flag exit.",
+  "companies": [
+   {
+    "name": "HTEC Group",
+    "value_busd": 0.73,
+    "status": "independent",
+    "founded": 2008,
+    "sector": "IT services",
+    "private": true
+   },
+   {
+    "name": "Nordeus",
+    "value_busd": 0.38,
+    "status": "acquired",
+    "founded": 2010,
+    "sector": "gaming",
+    "acquirer": "Take-Two",
+    "exit_year": 2021
+   }
+  ]
+ },
+ "SVN": {
+  "name": "Slovenia",
+  "flag": "🇸🇮",
+  "pop": 2.1,
+  "sourced": true,
+  "story": "Slovenia's tech story is two exits: Talking Tom went to China for $1B, and the world's oldest crypto exchange went to Robinhood.",
+  "companies": [
+   {
+    "name": "Outfit7",
+    "value_busd": 1,
+    "status": "acquired",
+    "founded": 2009,
+    "sector": "gaming",
+    "acquirer": "Jinke (Chinese consortium)",
+    "exit_year": 2017
+   },
+   {
+    "name": "Bitstamp",
+    "value_busd": 0.2,
+    "status": "acquired",
+    "founded": 2011,
+    "sector": "fintech",
+    "acquirer": "Robinhood",
+    "exit_year": 2025
+   }
+  ]
+ },
+ "ISL": {
+  "name": "Iceland",
+  "flag": "🇮🇸",
+  "pop": 0.4,
+  "sourced": true,
+  "story": "EVE Online sold to Korea for $425M in 2018 — then its makers bought themselves back this May for $120M.",
+  "companies": [
+   {
+    "name": "Fenris Creations (ex-CCP)",
+    "value_busd": 0.12,
+    "status": "independent",
+    "founded": 1997,
+    "sector": "gaming",
+    "private": true
+   },
+   {
+    "name": "CCP Games",
+    "value_busd": 0.43,
+    "status": "acquired",
+    "founded": 1997,
+    "sector": "gaming",
+    "acquirer": "Pearl Abyss",
+    "exit_year": 2018
+   }
+  ]
+ },
+ "LUX": {
+  "name": "Luxembourg",
+  "flag": "🇱🇺",
+  "pop": 0.69,
+  "sourced": true,
+  "story": "Luxembourg hosts — Skype was run from here — but it doesn't found. An honest zero.",
+  "companies": []
+ },
+ "BEL": {
+  "name": "Belgium",
+  "flag": "🇧🇪",
+  "pop": 11.8,
+  "sourced": true,
+  "story": "Odoo compounds quietly from Wallonia — and Aikido just became Europe's fastest-ever cybersecurity unicorn.",
+  "companies": [
+   {
+    "name": "Odoo",
+    "value_busd": 5.3,
+    "status": "independent",
+    "founded": 2005,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Collibra",
+    "value_busd": 5.25,
+    "status": "independent",
+    "founded": 2008,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Team.blue",
+    "value_busd": 5.2,
+    "status": "independent",
+    "founded": 2019,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Aikido Security",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2022,
+    "sector": "cybersecurity",
+    "private": true
+   },
+   {
+    "name": "Clear2Pay",
+    "value_busd": 0.49,
+    "status": "acquired",
+    "founded": 2005,
+    "sector": "fintech",
+    "acquirer": "FIS",
+    "exit_year": 2014
+   },
+   {
+    "name": "Isabel Group",
+    "value_busd": 0.33,
+    "status": "acquired",
+    "founded": 2000,
+    "sector": "fintech",
+    "acquirer": "Wolters Kluwer",
+    "exit_year": 2024
+   },
+   {
+    "name": "Be-Mobile",
+    "value_busd": 0.18,
+    "status": "acquired",
+    "founded": 1997,
+    "sector": "software",
+    "acquirer": "Arrive",
+    "exit_year": 2025
+   }
+  ]
+ },
+ "SAU": {
+  "name": "Saudi Arabia",
+  "flag": "🇸🇦",
+  "pop": 36.5,
+  "sourced": true,
+  "story": "State tech: Elm — the PIF's e-government arm — is ninety percent of the card; the private scene is young.",
+  "companies": [
+   {
+    "name": "Elm",
+    "value_busd": 14.6,
+    "status": "independent",
+    "founded": 1988,
+    "sector": "software"
+   },
+   {
+    "name": "Tamara",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2020,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Jahez",
+    "value_busd": 0.7,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "internet"
+   }
+  ]
+ },
+ "EGY": {
+  "name": "Egypt",
+  "flag": "🇪🇬",
+  "pop": 120.1,
+  "sourced": true,
+  "story": "Two fintechs carry Egypt: Fawry, the listed veteran, and MNT-Halan, the super-app heading for IPO.",
+  "companies": [
+   {
+    "name": "MNT-Halan",
+    "value_busd": 1.4,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Fawry",
+    "value_busd": 1.3,
+    "status": "independent",
+    "founded": 2008,
+    "sector": "fintech"
+   },
+   {
+    "name": "Instabug",
+    "value_busd": 0.15,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "software",
+    "private": true
+   }
+  ]
+ },
+ "ZAF": {
+  "name": "South Africa",
+  "flag": "🇿🇦",
+  "pop": 65.5,
+  "sourced": true,
+  "story": "The scoreboard misses SA's real fortune: Naspers turned $32M into the biggest outside stake in Tencent — but a holding company isn't a tech company. What's left: Karooooo, and Shuttleworth's 1999 Thawte exit.",
+  "companies": [
+   {
+    "name": "Karooooo (Cartrack)",
+    "value_busd": 1.7,
+    "status": "independent",
+    "founded": 2001,
+    "sector": "software"
+   },
+   {
+    "name": "Datatec",
+    "value_busd": 1.2,
+    "status": "independent",
+    "founded": 1986,
+    "sector": "IT services"
+   },
+   {
+    "name": "Altron",
+    "value_busd": 0.68,
+    "status": "independent",
+    "founded": 1965,
+    "sector": "IT services"
+   },
+   {
+    "name": "Thawte",
+    "value_busd": 0.58,
+    "status": "acquired",
+    "founded": 1995,
+    "sector": "cybersecurity",
+    "acquirer": "VeriSign",
+    "exit_year": 1999
+   },
+   {
+    "name": "GetSmarter",
+    "value_busd": 0.1,
+    "status": "acquired",
+    "founded": 2008,
+    "sector": "internet",
+    "acquirer": "2U",
+    "exit_year": 2017
+   },
+   {
+    "name": "iKhokha",
+    "value_busd": 0.09,
+    "status": "acquired",
+    "founded": 2012,
+    "sector": "fintech",
+    "acquirer": "Nedbank",
+    "exit_year": 2025
+   }
+  ]
+ },
+ "NGA": {
+  "name": "Nigeria",
+  "flag": "🇳🇬",
+  "pop": 242.4,
+  "sourced": true,
+  "story": "Fintech nation in waiting: five unicorns, all payments — and Paystack's $200M sale to Stripe lit the fuse.",
+  "companies": [
+   {
+    "name": "Flutterwave",
+    "value_busd": 3,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "OPay",
+    "value_busd": 2,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Andela",
+    "value_busd": 1.5,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Moniepoint",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Interswitch",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2002,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Paystack",
+    "value_busd": 0.2,
+    "status": "acquired",
+    "founded": 2016,
+    "sector": "fintech",
+    "acquirer": "Stripe",
+    "exit_year": 2020
+   }
+  ]
+ }
+}
