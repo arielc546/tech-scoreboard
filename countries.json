@@ -3379,5 +3379,484 @@
     "exit_year": 2020
    }
   ]
+ },
+ "NZL": {
+  "name": "New Zealand",
+  "flag": "🇳🇿",
+  "pop": 5.3,
+  "sourced": true,
+  "story": "Xero is the card — at a third of its old value. Rocket Lab ($50B!) was born in Auckland, but space hardware isn't tech by our rules and its workforce is Californian.",
+  "companies": [
+   {
+    "name": "Xero",
+    "value_busd": 8.45,
+    "status": "independent",
+    "founded": 2006,
+    "sector": "software"
+   },
+   {
+    "name": "Serko",
+    "value_busd": 0.17,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "software"
+   },
+   {
+    "name": "Trade Me",
+    "value_busd": 1.7,
+    "status": "acquired",
+    "founded": 1999,
+    "sector": "internet",
+    "acquirer": "Apax Partners",
+    "exit_year": 2019
+   },
+   {
+    "name": "Pushpay",
+    "value_busd": 1.53,
+    "status": "acquired",
+    "founded": 2012,
+    "sector": "fintech",
+    "acquirer": "Sixth Street/BGH",
+    "exit_year": 2023
+   }
+  ]
+ },
+ "KAZ": {
+  "name": "Kazakhstan",
+  "flag": "🇰🇿",
+  "pop": 21.1,
+  "sourced": true,
+  "story": "Kaspi — the super-app the fintech textbooks study — plus Freedom's brokerage: Central Asia's only card, and it beats half of Europe.",
+  "companies": [
+   {
+    "name": "Kaspi.kz",
+    "value_busd": 16.5,
+    "status": "independent",
+    "founded": 2007,
+    "sector": "fintech"
+   },
+   {
+    "name": "Freedom Holding",
+    "value_busd": 10.2,
+    "status": "independent",
+    "founded": 2008,
+    "sector": "fintech"
+   }
+  ]
+ },
+ "IDN": {
+  "name": "Indonesia",
+  "flag": "🇮🇩",
+  "pop": 287.9,
+  "sourced": true,
+  "story": "Scale without value (yet): GoTo fell 85% after its IPO and sold its crown jewel, Tokopedia, to TikTok.",
+  "companies": [
+   {
+    "name": "GoTo",
+    "value_busd": 3,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "internet"
+   },
+   {
+    "name": "Traveloka",
+    "value_busd": 3,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Xendit",
+    "value_busd": 2.8,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Akulaku",
+    "value_busd": 1.5,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "DANA",
+    "value_busd": 1.13,
+    "status": "independent",
+    "founded": 2017,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Tokopedia (75%)",
+    "value_busd": 0.84,
+    "status": "acquired",
+    "founded": 2009,
+    "sector": "e-commerce",
+    "acquirer": "TikTok/ByteDance",
+    "exit_year": 2024
+   }
+  ]
+ },
+ "MYS": {
+  "name": "Malaysia",
+  "flag": "🇲🇾",
+  "pop": 36.4,
+  "sourced": true,
+  "story": "Grab was born in Kuala Lumpur and left for Singapore — by our own headcount rule. Carsome stayed and became the first Malaysian unicorn.",
+  "companies": [
+   {
+    "name": "Carsome",
+    "value_busd": 1.7,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "e-commerce",
+    "private": true
+   },
+   {
+    "name": "iProperty",
+    "value_busd": 0.41,
+    "status": "acquired",
+    "founded": 2008,
+    "sector": "internet",
+    "acquirer": "REA Group",
+    "exit_year": 2016
+   }
+  ]
+ },
+ "VNM": {
+  "name": "Vietnam",
+  "flag": "🇻🇳",
+  "pop": 102.2,
+  "sourced": true,
+  "story": "Outsourcing built FPT; crypto-gaming fever built Sky Mavis — only one endured.",
+  "companies": [
+   {
+    "name": "FPT",
+    "value_busd": 4.73,
+    "status": "independent",
+    "founded": 1988,
+    "sector": "IT services"
+   },
+   {
+    "name": "Sky Mavis",
+    "value_busd": 3,
+    "status": "independent",
+    "founded": 2017,
+    "sector": "gaming",
+    "private": true
+   },
+   {
+    "name": "MoMo",
+    "value_busd": 2,
+    "status": "independent",
+    "founded": 2010,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "VNG",
+    "value_busd": 0.48,
+    "status": "independent",
+    "founded": 1998,
+    "sector": "gaming"
+   }
+  ]
+ },
+ "MEX": {
+  "name": "Mexico",
+  "flag": "🇲🇽",
+  "pop": 133.0,
+  "sourced": true,
+  "story": "The 2021 unicorn class froze in amber — but Kavak reached profitability and held its $8.7B.",
+  "companies": [
+   {
+    "name": "Kavak",
+    "value_busd": 8.7,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "e-commerce",
+    "private": true
+   },
+   {
+    "name": "Clip",
+    "value_busd": 2.5,
+    "status": "independent",
+    "founded": 2012,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Bitso",
+    "value_busd": 2.2,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Stori",
+    "value_busd": 1.2,
+    "status": "independent",
+    "founded": 2019,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Clara",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2014,
+    "sector": "fintech",
+    "private": true
+   }
+  ]
+ },
+ "URY": {
+  "name": "Uruguay",
+  "flag": "🇺🇾",
+  "pop": 3.4,
+  "sourced": true,
+  "story": "The Latin Latvia: one company, dLocal, moving money for the world's emerging markets. (PedidosYa sold to Delivery Hero in undisclosed stages.)",
+  "companies": [
+   {
+    "name": "dLocal",
+    "value_busd": 4.31,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "fintech"
+   }
+  ]
+ },
+ "COL": {
+  "name": "Colombia",
+  "flag": "🇨🇴",
+  "pop": 53.9,
+  "sourced": true,
+  "story": "Rappi is the card — profitable four quarters running and pointed at a late-2026 IPO.",
+  "companies": [
+   {
+    "name": "Rappi",
+    "value_busd": 5,
+    "status": "independent",
+    "founded": 2015,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Habi",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2017,
+    "sector": "internet",
+    "private": true
+   }
+  ]
+ },
+ "CHL": {
+  "name": "Chile",
+  "flag": "🇨🇱",
+  "pop": 20.0,
+  "sourced": true,
+  "story": "Chile's best tech story already sold: Cornershop to Uber for ~$3B.",
+  "companies": [
+   {
+    "name": "Betterfly",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Buk",
+    "value_busd": 0.85,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Cornershop",
+    "value_busd": 3,
+    "status": "acquired",
+    "founded": 2015,
+    "sector": "internet",
+    "acquirer": "Uber",
+    "exit_year": 2021
+   }
+  ]
+ },
+ "BLR": {
+  "name": "Belarus",
+  "flag": "🇧🇾",
+  "pop": 9.0,
+  "sourced": true,
+  "story": "Minsk built three unicorns — Wargaming, PandaDoc, Flo — and after 2020-22, every one of them runs from somewhere else. Even Viber (Israeli-founded) was engineered here.",
+  "companies": [
+   {
+    "name": "Wargaming",
+    "value_busd": 4.9,
+    "status": "independent",
+    "founded": 1998,
+    "sector": "gaming",
+    "private": true
+   },
+   {
+    "name": "PandaDoc",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2011,
+    "sector": "software",
+    "private": true
+   },
+   {
+    "name": "Flo Health",
+    "value_busd": 1,
+    "status": "independent",
+    "founded": 2016,
+    "sector": "software",
+    "private": true
+   }
+  ]
+ },
+ "KWT": {
+  "name": "Kuwait",
+  "flag": "🇰🇼",
+  "pop": 5.1,
+  "sourced": true,
+  "story": "Talabat was born in Kuwait and sold for $170M — nine years later it IPO'd in Dubai at $10B. The one that got away, twice.",
+  "companies": [
+   {
+    "name": "Talabat",
+    "value_busd": 0.17,
+    "status": "acquired",
+    "founded": 2004,
+    "sector": "internet",
+    "acquirer": "Rocket Internet/Delivery Hero",
+    "exit_year": 2015
+   }
+  ]
+ },
+ "JOR": {
+  "name": "Jordan",
+  "flag": "🇯🇴",
+  "pop": 11.6,
+  "sourced": true,
+  "story": "One exit started Arab tech: Maktoob to Yahoo, 2009. Its founders went on to build Souq — Amazon's $800M Middle East buy.",
+  "companies": [
+   {
+    "name": "Maktoob",
+    "value_busd": 0.16,
+    "status": "acquired",
+    "founded": 1999,
+    "sector": "internet",
+    "acquirer": "Yahoo",
+    "exit_year": 2009
+   }
+  ]
+ },
+ "CYP": {
+  "name": "Cyprus",
+  "flag": "🇨🇾",
+  "pop": 1.3,
+  "sourced": true,
+  "story": "The Mediterranean Luxembourg: Wargaming runs from Nicosia and a fleet of gaming and SaaS companies domicile here — but founded-in-Cyprus tech rounds to zero.",
+  "companies": []
+ },
+ "QAT": {
+  "name": "Qatar",
+  "flag": "🇶🇦",
+  "pop": 3.1,
+  "sourced": true,
+  "story": "The wealth fund on everyone else's cap table: Qatar invests billions in the world's tech and founds almost none of its own — the biggest homegrown app (Snoonu) is still below this map's bar.",
+  "companies": []
+ },
+ "THA": {
+  "name": "Thailand",
+  "flag": "🇹🇭",
+  "pop": 71.6,
+  "sourced": true,
+  "story": "Five quiet unicorns — and the one that got away: Agoda, sold to Priceline for ~$158M in 2007, is now a Booking Holdings crown jewel.",
+  "companies": [
+   {
+    "name": "Flash Express",
+    "value_busd": 2.1,
+    "status": "independent",
+    "founded": 2017,
+    "sector": "logistics tech",
+    "private": true
+   },
+   {
+    "name": "Ascend Money",
+    "value_busd": 1.5,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Bitkub",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "LINE MAN Wongnai",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2020,
+    "sector": "internet",
+    "private": true
+   },
+   {
+    "name": "Opn (Omise)",
+    "value_busd": 1.0,
+    "status": "independent",
+    "founded": 2013,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "Agoda",
+    "value_busd": 0.16,
+    "status": "acquired",
+    "founded": 2005,
+    "sector": "internet",
+    "acquirer": "Priceline",
+    "exit_year": 2007
+   }
+  ]
+ },
+ "KEN": {
+  "name": "Kenya",
+  "flag": "🇰🇪",
+  "pop": 58.6,
+  "sourced": true,
+  "story": "Africa's most famous fintech isn't on this card — M-Pesa lives inside a phone company (Safaricom), and carriers don't count. What does: Wasoko, and the DPO exit.",
+  "companies": [
+   {
+    "name": "Wasoko (Sokowatch)",
+    "value_busd": 0.53,
+    "status": "independent",
+    "founded": 2018,
+    "sector": "fintech",
+    "private": true
+   },
+   {
+    "name": "DPO Group",
+    "value_busd": 0.29,
+    "status": "acquired",
+    "founded": 2006,
+    "sector": "fintech",
+    "acquirer": "Network International",
+    "exit_year": 2020
+   }
+  ]
  }
 }
